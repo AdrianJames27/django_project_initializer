@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "django_project_initializer"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
     { name="AdrianJames27", email="bonbon22135@gmail.com" },
 ]
