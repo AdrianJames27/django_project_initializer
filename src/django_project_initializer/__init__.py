@@ -47,6 +47,8 @@ def main():
         print("   pipenv shell")
         print("4. Install the required packages:")
         print("   pipenv install -r requirements.txt")
+        print("5. Run Development Server:")
+        print("   py manage.py runserver")
 
     except KeyboardInterrupt:
         print("\nProcess interrupted. Exiting...")
