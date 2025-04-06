@@ -21,5 +21,15 @@ The Django Project Initializer is a Python script that automates the setup of a 
 * EOFError: Handles unexpected end of input.
 * General Exceptions: Catches other unforeseen errors and provides an error message.
 
+## Install Script (pip)
+```bash
+pip install django_project_initializer
+```
+
+## Create a Django Project
+```bash
+django-init
+```
+
 ## License
-- This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/AdrianJames27/django_project_initializer?tab=GPL-3.0-1-ov-file) file for details.
