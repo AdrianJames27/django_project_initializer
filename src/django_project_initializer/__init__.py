@@ -37,7 +37,7 @@ def main():
         remove_git_directory(clone_dir)
         rename_project_directory(clone_dir, project_name)
         
-        print("\nProject '{project_name}' has been initialized successfully.")
+        print(f"\nProject '{project_name}' has been initialized successfully.")
         print("\nNext steps:")
         print("1. Install pipenv library if not exists:")
         print("   pip install pipenv")
