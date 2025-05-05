@@ -4,11 +4,11 @@ build-backend = "hatchling.build"
 
 [project]
 name = "django_project_initializer"
-version = "1.0.3"
+version = "1.0.4"
 authors = [
     { name="AdrianJames27", email="bonbon22135@gmail.com" },
 ]
-description = "The Django Project Initializer is a Python script that automates the setup of a new Django project."
+description = "The Django Project Initializer is a helper Python script that initializes a Modified Django project with mysql and python-stubs out-of-the-box."
 readme = "README.md"
 requires-python = ">=3.12"
 classifiers = [
@@ -19,7 +19,7 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/AdrianJames27/django_project_initializer"
-Issues = "https://github.com/AdrianJames27/django_project_initializer"
+Issues = "https://github.com/AdrianJames27/django_project_initializer/issues"
 
 [project.scripts]
 django-init = "django_project_initializer:main"

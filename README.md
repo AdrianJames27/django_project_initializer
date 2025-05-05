@@ -7,7 +7,7 @@
 The Django Project Initializer is a Python script that automates the setup of a new Django project. It performs the following tasks:
 
 1. **Prompts** the user for a project name.
-2. **Clones** a base Django template repository from [GitHub](https://github.com/AdrianJames27/django_template).
+2. **Clones** a base Modified Django template repository from [GitHub](https://github.com/AdrianJames27/django_template).
 3. **Removes** the `.git` directory from the cloned repository to eliminate version control history.
 4. **Renames** the project directory to the specified project name.
 
@@ -32,4 +32,4 @@ django-init
 ```
 
 ## License
-- This project is licensed under the MIT License - see the [LICENSE](https://github.com/AdrianJames27/django_project_initializer?tab=GPL-3.0-1-ov-file) file for details.
+- This project is licensed under the GPL-3.0 License - see the [LICENSE](https://github.com/AdrianJames27/django_project_initializer?tab=GPL-3.0-1-ov-file) file for details.
